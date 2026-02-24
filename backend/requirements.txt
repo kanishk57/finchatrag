@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+chromadb
+llama-index-vector-stores-chroma
+pymupdf
+python-docx
+easyocr
+pillow
+python-multipart
+pydantic
+python-dotenv
+torch
+torchvision
+torchaudio
